@@ -1,5 +1,4 @@
-What is the difference between CRUD and REST
-============================================
+#What is the difference between CRUD and REST
 
 -	[Original site](https://www.bmc.com/blogs/rest-vs-crud-whats-the-difference/)
 
@@ -7,7 +6,7 @@ What is the difference between CRUD and REST
 
 ```
 * Principles of REST
-  - Client-Server Mandate
+  - Client-Server Mandates
       REST is distributed approach via the natrue of separation between client and server.
       Each service has multiple capabilities and listens for requests. Requests are made by a consumer and accepted or rejected by the server.
 
