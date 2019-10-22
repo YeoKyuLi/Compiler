@@ -1,2 +1,5 @@
-# Computer Science
-* Compiler
+Computer Science
+================
+
+-	CRUD
+-	Compiler
