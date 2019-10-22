@@ -25,7 +25,9 @@
       This principle is the one that makes RESTfule architecture so scalable. In a Layered System, multiple layers are used to grow and expand the interface. None of the layers can see into the other.
 ```
 
-###CRUE : The standard database commands that are the foundation of CURD. By definition, CRUD is more of a cycle than an architectural system. On any dynamic webstie, there are likely multiple CRUD cycles that exist. CRUD is a smart way for applications to mitigate operational commands between clients and services.
+###CRUE : The standard database commands that are the foundation of CURD. 
+
+#####By definition, CRUD is more of a cycle than an architectural system. On any dynamic webstie, there are likely multiple CRUD cycles that exist. CRUD is a smart way for applications to mitigate operational commands between clients and services.
 
 ```
 CREATE, READ, UPDATE and DELETE
